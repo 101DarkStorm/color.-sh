@@ -1,8 +1,7 @@
-##########################
-#[1] Www.Darkstorm101.com
-#[2] Yousef Tito programming
-#[3] Arabs above everyone
-#[4] Greetings Yousef Tito
+########################
+#[1] Yousef Tito programming
+#[2] Arabs above everyone
+#[3] تحياتي يوسف تيتو
 ##########################
 # Light colors #0
 #[1]= ["\e[0;30m"] # Black
