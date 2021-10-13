@@ -1,5 +1,5 @@
 # اللون
 pkg update 
 pkg upgrade 
-بوابة pkgpkg
-شخص سخيفlone 
+pkg install git 
+git clone https://github.com/101DarkStorm/colors.-sh.git
